@@ -22,10 +22,15 @@ Through this project, I have gained hands-on experience with:
 - Applying consistent color schemes and typography.
 - Making web pages responsive for different screen sizes.
 
+## Live Demo
+
+You can view the landing page live at:  
+[https://erickpython.github.io/landing-page-the-odin-project/](https://erickpython.github.io/landing-page-the-odin-project/)
+
 ## Screenshots
 
-![Landing Page Screenshot](./img/screenshot1.png) <!-- Add a screenshot if available -->
-![Landing Page Screenshot](./img/screenshot2.png) <!-- Add a screenshot if available -->
+![Landing Page Screenshot](./img/screenshot1.png)
+![Landing Page Screenshot](./img/screenshot2.png)
 
 ## Getting Started
 
